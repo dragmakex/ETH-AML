@@ -3,6 +3,10 @@ config.json
 config.json.tmp
 sdn.json
 sdn2.xml
-blacklist_data
 results
 ofac_script.txt
+address_cluster.parquet
+plain_cluster_incoming_rel.parquet
+plain_cluster_outgoing_rel.parquet
+btc_tags_with_actors.csv.gz
+data.tar
